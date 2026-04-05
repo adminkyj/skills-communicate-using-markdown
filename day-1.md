@@ -1,5 +1,7 @@
 # Daily Learning
 ## Morning Planning
+![Cloudy morning](https://octodex.github.com/images/clouds.jpg)
+<img alt="Cloudy morning" src="https://octdex.github.com.images/cloud.jpg" width="200" align="right">
 ## Review
 - Item 1
 - Item 2
@@ -16,7 +18,11 @@
 - [ ] Convert my first blog post into an actual webage
 
 ```js
-var myVar="Hello,World!";
+var myVar="Hello-JS-World!";
+```
+
+```java
+string str="TEXT1_Java";
 ```
 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
@@ -24,3 +30,4 @@ Convert an image or video from dark mode to light mode using [ffmpeg](https://ww
 ```bash
 ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
 ```
+
